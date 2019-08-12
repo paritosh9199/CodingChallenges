@@ -54,3 +54,6 @@ while(n > 0):
 
     grp.append(group_count)
     n -= 1
+
+for i in grp:
+    print(i)
